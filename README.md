@@ -1,6 +1,8 @@
 Date 22/03/2020
 Version : 1.0 Beta 
+
 Author : Yovan Fowdar
+
 
 Reason  : Covid-19
 Background info : It is widely accepted that the safe distance to keep from someone that is infected by COVID-19 Virus is 150cm 
