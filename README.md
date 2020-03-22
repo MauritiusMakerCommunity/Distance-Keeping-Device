@@ -5,9 +5,13 @@ Author : Yovan Fowdar
 
 
 Reason  : Covid-19
+
 Background info : It is widely accepted that the safe distance to keep from someone that is infected by COVID-19 Virus is 150cm 
+
 Purpose of this device : Sound an alarm when an object is closer that 150 cm from the device
-Where to place this device : on a belt , trouser , skirt (Should not be higher so as not to miss short people) 
+
+Where to place this device : on a belt , trouser , skirt (Should not be higher so as not to miss short people)
+
 Powering the device : The device can be powered with commonly available battery power banks commonly used to charge phones
 
 
@@ -26,13 +30,19 @@ Electronic Components
 
 
 Wiring on HC-SR04 to Arduino/ATMEGA
+
 VCC  --> 5V
+
 TRIG --> D2
+
 ECHO --> D3
+
 GND --> GND
 
 
 Wiring to buzzer
+
 GND --> GND
+
 +VE --> D4
 
