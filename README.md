@@ -25,9 +25,7 @@ Next phases :-
 Electronic Components
 
 1) Arduino Nano 
-
 2) HC-SR04  Reference on Ultrasonic sensor  -- >https://www.itead.cc/wiki/Ultrasonic_Ranging_Module_HC-SR04
-
 3) Buzzer 5V
 
 
