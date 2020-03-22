@@ -1,8 +1,8 @@
 /*
 Date 22/03/2020
 Reason  : Covid-19
-Background info : It is widely accepted that the same distance to keep from someone that is infected by COVID-19 Virus is 150cm 
-Purpose of this device : Set an larm when an object is closer that 150 cm from the device
+Background info : It is widely accepted that the safe distance to keep from someone that is infected by COVID-19 Virus is 150cm 
+Purpose of this device : Sound an alarm when an object is closer that 150 cm from the device
 Where to place tis device : on a belt , trouser , skirt (Should not be higher to as not to miss short people) 
 Version : 1.0 Beta 
 Author : Yovan Fowdar
