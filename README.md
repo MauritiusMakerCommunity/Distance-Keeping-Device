@@ -11,7 +11,9 @@ Where to place this device : on a belt , trouser , skirt (Should not be higher s
 The device can be powered with commonly available battery power banks commonly used to charge phones
 
 Current phase :  Prototyping 
+
 Next phases :- 
+
 (1)  3D Printed Enclosure
 (2)  Field test 
 (3)  Add PIR module to prevent the device from detecting objects
